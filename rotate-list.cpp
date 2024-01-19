@@ -42,6 +42,6 @@ public:
         }
 
         //return the head of the list
-        return temp;
+        return head;
     }
 };
